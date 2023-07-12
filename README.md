@@ -1,2 +1,2 @@
 # Booking-Website
-Booking Website using HTML, CSS and  JAVASCRIPT
+Booking Website using HTML, CSS and  JAVASCRIPT.
